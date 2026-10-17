@@ -31,4 +31,5 @@ Already covered (Module 1 — Software Testing Concepts):
 ## 📓 Log
 | Date | What I did |
 |------|------------|
-| 27 Sep 2026 | Set up repo, planned roadmap |
+| 27 Sep 2026 | Set up repo, planned roadmap, added notes on functional and non-functional testing |
+| 17 Oct 2026 | Day 2: [Regression, re-testing, smoke and sanity testing](notes/day2-regression-smoke-sanity.md) |
